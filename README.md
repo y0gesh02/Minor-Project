@@ -1,4 +1,5 @@
-# Minor-Project
+# Easy Mart
+
 
 
 Getting Started with Create React App
